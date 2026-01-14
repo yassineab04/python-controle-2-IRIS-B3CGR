@@ -1,6 +1,6 @@
 # Devoir maison<!-- omit in toc -->
 
-## Table of contens <!-- omit in toc -->
+## Sommaire<!-- omit in toc -->
 
 - [Pré-requis](#pré-requis)
 - [Objectif](#objectif)
@@ -25,6 +25,7 @@ Développez un jeu de shifumi accessible depuis le terminal.
 
 - faire un fork de ce projet sur votre compte
 - une fois votre travail terminé, faire une pull request de votre repository vers celui-ci
+  - préciser dans la description ou le titre de votre pull request votre nom et votre prénom
 
 ## Fonctionnalités
 
